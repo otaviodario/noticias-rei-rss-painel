@@ -1,4 +1,5 @@
-💡 Contexto
+💡 Contexto:
+
 A ideia nasceu da experiência acumulada com outros projetos de automação para e-commerce — especialmente após a implementação de painéis de rastreio e BI direto na landing page da loja. A pergunta foi simples: se já temos infraestrutura rodando no GAS, por que não usar o mesmo ecossistema para entregar conteúdo dinâmico ao cliente?
 
 🔄 Como o sistema funciona
